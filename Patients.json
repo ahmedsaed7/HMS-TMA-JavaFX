@@ -1,0 +1,603 @@
+[
+    {
+        "patientId": "1001",
+        "username": "patient1",
+        "password": "A7b@2mK#",
+        "name": "Ahmed Mohamed",
+        "age": 35,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "Normal",
+            "xRay": "No issues"
+        }
+    },
+    {
+        "patientId": "1002",
+        "username": "patient2",
+        "password": "T5$kL9pQ",
+        "name": "Fatima Ali",
+        "age": 28,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "High sugar",
+            "xRay": "Bone fracture"
+        }
+    },
+    {
+        "patientId": "1003",
+        "username": "patient3",
+        "password": "R3^vN8sW",
+        "name": "Youssef Ibrahim",
+        "age": 42,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "Anemia",
+            "xRay": "Mild lung inflammation"
+        }
+    },
+    {
+        "patientId": "1004",
+        "username": "patient4",
+        "password": "X9&fP2yZ",
+        "name": "Layla Hassan",
+        "age": 31,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "Vitamin D deficiency",
+            "xRay": "Normal"
+        }
+    },
+    {
+        "patientId": "1005",
+        "username": "patient5",
+        "password": "L6#qM4tB",
+        "name": "Saeed Omar",
+        "age": 55,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "High blood pressure",
+            "xRay": "Joint calcification"
+        }
+    },
+    {
+        "patientId": "1006",
+        "username": "patient6",
+        "password": "K8@jH3rD",
+        "name": "Noha Khalid",
+        "age": 22,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "Normal",
+            "xRay": "No issues"
+        }
+    },
+    {
+        "patientId": "1007",
+        "username": "patient7",
+        "password": "P2$gY7nF",
+        "name": "Mahmoud Saeed",
+        "age": 45,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "High cholesterol",
+            "xRay": "Spinal issues"
+        }
+    },
+    {
+        "patientId": "1008",
+        "username": "patient8",
+        "password": "W4*hJ1vE",
+        "name": "Fatima Zakaria",
+        "age": 38,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "High blood pressure",
+            "xRay": "No issues"
+        }
+    },
+    {
+        "patientId": "1009",
+        "username": "patient9",
+        "password": "Q9!bK5mX",
+        "name": "Sami Ali",
+        "age": 60,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "Normal",
+            "xRay": "Spinal issues"
+        }
+    },
+    {
+        "patientId": "1010",
+        "username": "patient10",
+        "password": "V3&nC8rT",
+        "name": "Jamal Abdullah",
+        "age": 50,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "Vitamin D deficiency",
+            "xRay": "Lung inflammation"
+        }
+    },
+    {
+        "patientId": "1011",
+        "username": "patient11",
+        "password": "Z2@pL6sD",
+        "name": "Mona Youssef",
+        "age": 28,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "High sugar",
+            "xRay": "Normal"
+        }
+    },
+    {
+        "patientId": "1012",
+        "username": "patient12",
+        "password": "M7#rT4kY",
+        "name": "Hassan Abbas",
+        "age": 39,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "Anemia",
+            "xRay": "Bone fracture"
+        }
+    },
+    {
+        "patientId": "1013",
+        "username": "patient13",
+        "password": "N5$fH2jU",
+        "name": "Adel Hussein",
+        "age": 48,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "High cholesterol",
+            "xRay": "Joint calcification"
+        }
+    },
+    {
+        "patientId": "1014",
+        "username": "patient14",
+        "password": "B8@kL3wQ",
+        "name": "Sarah Jamal",
+        "age": 54,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "Anemia",
+            "xRay": "Spinal issues"
+        }
+    },
+    {
+        "patientId": "1015",
+        "username": "patient15",
+        "password": "D1^mX9vP",
+        "name": "Mahmoud Ahmed",
+        "age": 63,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "High blood pressure",
+            "xRay": "Lung inflammation"
+        }
+    }
+
+,{
+        "patientId": "1016",
+        "username": "patient16",
+        "password": "G6&yT2pR",
+        "name": "Mona Youssef",
+        "age": 30,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "Vitamin D deficiency",
+            "xRay": "Normal"
+        }
+    },
+    {
+        "patientId": "1017",
+        "username": "patient17",
+        "password": "H9@kL4sW",
+        "name": "Sami Ali",
+        "age": 58,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "High sugar",
+            "xRay": "Bone fracture"
+        }
+    },
+    {
+        "patientId": "1018",
+        "username": "patient18",
+        "password": "J3$fM7vQ",
+        "name": "Jamal Abdullah",
+        "age": 46,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "Normal",
+            "xRay": "Joint issues"
+        }
+    },
+    {
+        "patientId": "1019",
+        "username": "patient19",
+        "password": "K8#nB5tX",
+        "name": "Mahmoud Saeed",
+        "age": 52,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "Vitamin D deficiency",
+            "xRay": "Lung inflammation"
+        }
+    },
+    {
+        "patientId": "1020",
+        "username": "patient20",
+        "password": "L2^pY9rZ",
+        "name": "Alia Mustafa",
+        "age": 35,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "Normal",
+            "xRay": "No issues"
+        }
+    },
+    {
+        "patientId": "1021",
+        "username": "patient21",
+        "password": "M5&vC3sD",
+        "name": "Saeed Omar",
+        "age": 50,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "High blood pressure",
+            "xRay": "Spinal issues"
+        }
+    },
+    {
+        "patientId": "1022",
+        "username": "patient22",
+        "password": "N7@qJ1wF",
+        "name": "Fatima Zakaria",
+        "age": 60,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "High cholesterol",
+            "xRay": "Spinal calcification"
+        }
+    },
+    {
+        "patientId": "1023",
+        "username": "patient23",
+        "password": "P4$rT8kG",
+        "name": "Youssef Ibrahim",
+        "age": 28,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "Anemia",
+            "xRay": "Lung inflammation"
+        }
+    },
+    {
+        "patientId": "1024",
+        "username": "patient24",
+        "password": "Q6#sH2mY",
+        "name": "Fatima Ali",
+        "age": 43,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "High sugar",
+            "xRay": "Normal"
+        }
+    },
+    {
+        "patientId": "1025",
+        "username": "patient25",
+        "password": "R9^dL5vB",
+        "name": "Samia Abdulrahman",
+        "age": 37,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "High cholesterol",
+            "xRay": "Spinal issues"
+        }
+    },
+    {
+        "patientId": "1026",
+        "username": "patient26",
+        "password": "S3&fK7nT",
+        "name": "Sami Abdullah",
+        "age": 55,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "Normal",
+            "xRay": "Spinal issues"
+        }
+    },
+    {
+        "patientId": "1027",
+        "username": "patient27",
+        "password": "T8@jM1wQ",
+        "name": "Hassan Abbas",
+        "age": 42,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "Vitamin D deficiency",
+            "xRay": "Lung inflammation"
+        }
+    },
+    {
+        "patientId": "1028",
+        "username": "patient28",
+        "password": "U2$hN6rP",
+        "name": "Ahmed Mohamed",
+        "age": 60,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "High cholesterol",
+            "xRay": "Joint calcification"
+        }
+    },
+    {
+        "patientId": "1029",
+        "username": "patient29",
+        "password": "V5#kX9sD",
+        "name": "Fatima Zakaria",
+        "age": 49,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "Anemia",
+            "xRay": "Bone fracture"
+        }
+    },
+    {
+        "patientId": "1030",
+        "username": "patient30",
+        "password": "W7^mL4tF",
+        "name": "Mahmoud Saeed",
+        "age": 34,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "High blood pressure",
+            "xRay": "Normal"
+        }
+    },
+    {
+        "patientId": "1031",
+        "username": "patient31",
+        "password": "X4&nB8vG",
+        "name": "Noha Khalid",
+        "age": 28,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "High sugar",
+            "xRay": "No issues"
+        }
+    },
+    {
+        "patientId": "1032",
+        "username": "patient32",
+        "password": "Y9@pJ3sQ",
+        "name": "Youssef Ibrahim",
+        "age": 44,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "Vitamin D deficiency",
+            "xRay": "Joint issues"
+        }
+    },
+    {
+        "patientId": "1033",
+        "username": "patient33",
+        "password": "Z2$rK6wT",
+        "name": "Samia Abdulrahman",
+        "age": 38,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "High cholesterol",
+            "xRay": "Lung inflammation"
+        }
+    },
+    {
+        "patientId": "1034",
+        "username": "patient34",
+        "password": "A5#tL9mY",
+        "name": "Jamal Abdullah",
+        "age": 57,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "Anemia",
+            "xRay": "Spinal issues"
+        }
+    },
+    {
+        "patientId": "1035",
+        "username": "patient35",
+        "password": "B8^vN2sD",
+        "name": "Layla Hassan",
+        "age": 62,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "Normal",
+            "xRay": "Bone fracture"
+        }
+    },
+    {
+        "patientId": "1036",
+        "username": "patient36",
+        "password": "C3&wX7pF",
+        "name": "Mahmoud Ahmed",
+        "age": 46,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "High cholesterol",
+            "xRay": "Joint issues"
+        }
+    },
+    {
+        "patientId": "1037",
+        "username": "patient37",
+        "password": "D6@qJ4tG",
+        "name": "Alia Mustafa",
+        "age": 50,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "High blood pressure",
+            "xRay": "Normal"
+        }
+    },
+    {
+        "patientId": "1038",
+        "username": "patient38",
+        "password": "E9$rK1wH",
+        "name": "Saeed Omar",
+        "age": 56,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "Anemia",
+            "xRay": "Lung inflammation"
+        }
+    },
+    {
+        "patientId": "1039",
+        "username": "patient39",
+        "password": "F2#sL8mQ",
+        "name": "Sarah Jamal",
+        "age": 60,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "Normal",
+            "xRay": "No issues"
+        }
+    },
+    {
+        "patientId": "1040",
+        "username": "patient40",
+        "password": "G5^tM3vR",
+        "name": "Fatima Ali",
+        "age": 41,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "High cholesterol",
+            "xRay": "Bone fracture"
+        }
+    },
+    {
+        "patientId": "1041",
+        "username": "patient41",
+        "password": "H8&uN6sS",
+        "name": "Youssef Ibrahim",
+        "age": 62,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "High sugar",
+            "xRay": "Joint issues"
+        }
+    },
+    {
+        "patientId": "1042",
+        "username": "patient42",
+        "password": "J1@vX9tT",
+        "name": "Sami Ali",
+        "age": 58,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "High blood pressure",
+            "xRay": "Lung inflammation"
+        }
+    },
+    {
+        "patientId": "1043",
+        "username": "patient43",
+        "password": "K4$wY2rU",
+        "name": "Mahmoud Saeed",
+        "age": 43,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "Normal",
+            "xRay": "Bone fracture"
+        }
+    },
+    {
+        "patientId": "1044",
+        "username": "patient44",
+        "password": "L7#xZ5sV",
+        "name": "Layla Hassan",
+        "age": 37,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "Vitamin D deficiency",
+            "xRay": "Normal"
+        }
+    },
+    {
+        "patientId": "1045",
+        "username": "patient45",
+        "password": "M2^yA8tW",
+        "name": "Adel Hussein",
+        "age": 45,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "High cholesterol",
+            "xRay": "Spinal issues"
+        }
+    },
+    {
+        "patientId": "1046",
+        "username": "patient46",
+        "password": "N5&zB3vX",
+        "name": "Mahmoud Ahmed",
+        "age": 50,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "Anemia",
+            "xRay": "Joint calcification"
+        }
+    },
+    {
+        "patientId": "1047",
+        "username": "patient47",
+        "password": "P8@cD6sY",
+        "name": "Samia Abdulrahman",
+        "age": 39,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "High sugar",
+            "xRay": "Joint issues"
+        }
+    },
+    {
+        "patientId": "1048",
+        "username": "patient48",
+        "password": "Q1$eF9tZ",
+        "name": "Sarah Jamal",
+        "age": 33,
+        "gender": "Female",
+        "labResults": {
+            "bloodTest": "Normal",
+            "xRay": "Lung inflammation"
+        }
+    },
+    {
+        "patientId": "1049",
+        "username": "patient49",
+        "password": "R4#gH2vA",
+        "name": "Youssef Ibrahim",
+        "age": 40,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "High cholesterol",
+            "xRay": "Bone fracture"
+        }
+    },
+    {
+        "patientId": "1050",
+        "username": "patient50",
+        "password": "S7^jK5wB",
+        "name": "Hassan Abbas",
+        "age": 41,
+        "gender": "Male",
+        "labResults": {
+            "bloodTest": "Vitamin D deficiency",
+            "xRay": "Spinal issues"
+        }
+    }
+]
